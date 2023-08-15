@@ -85,7 +85,7 @@ header{
 }
 .dropdown_menu {
     display: none ;
-    position: absolute ;
+    position: fixed ;
     right : 3.2rem ;
     top : 6rem ;
     height : 0 ;
