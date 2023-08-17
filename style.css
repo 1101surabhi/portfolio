@@ -30,6 +30,7 @@ header{
     align-items: center ;
     justify-content: space-between ;
     background-color: #0c134f;
+    z-index: 100 ;
 }
 .navbar li {
     list-style-type: none ;
