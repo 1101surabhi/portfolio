@@ -294,6 +294,7 @@ header{
 }
 .edu-desc-box:hover {
     transform: scale(1.07);
+    z-index: 1 ;
 }
 
 /* skills */
@@ -337,6 +338,7 @@ header{
 }
 .skills-item:hover {
     transform: scale(1.05);
+    z-index: 1 ;
 }
 .skills-section1, .skills-section2, .skills-section3 {
     justify-content: center ;
@@ -397,6 +399,7 @@ header{
 }
 .project-content:hover {
     transform: scale(1.05);
+    z-index: 1 ;
 }
 
 
